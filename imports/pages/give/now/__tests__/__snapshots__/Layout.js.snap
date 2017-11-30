@@ -11,6 +11,29 @@ exports[`test renders loading version 1`] = `
       }
     }>
     <div
+      className="card soft-top soft-sides"
+      style={
+        Object {
+          "backgroundColor": "#6BAC43",
+          "color": "#FFFFFF",
+        }
+      }>
+      <h4>
+        You\'re Giving Is Working
+      </h4>
+      <p>
+        We are experiencing some glitches with receipts being sent out via email, but rest assured, you\'re gifts are being received and processed correctly. Thank you for being patient with us while we straighten out the situation with our transaction receipts.
+      </p>
+    </div>
+  </div>
+  <div
+    className="soft-double-sides@lap-and-up soft-ends@anchored soft background--light-primary"
+    style={
+      Object {
+        "overflow": "visible",
+      }
+    }>
+    <div
       className="text-left soft-top@anchored hard-left@lap-and-up soft-half-bottom soft@anchored ">
       <div
         className="soft-double-ends@palm-wide-and-up soft-ends@palm">
@@ -63,6 +86,29 @@ exports[`test renders not alive version 1`] = `
       }
     }>
     <div
+      className="card soft-top soft-sides"
+      style={
+        Object {
+          "backgroundColor": "#6BAC43",
+          "color": "#FFFFFF",
+        }
+      }>
+      <h4>
+        You\'re Giving Is Working
+      </h4>
+      <p>
+        We are experiencing some glitches with receipts being sent out via email, but rest assured, you\'re gifts are being received and processed correctly. Thank you for being patient with us while we straighten out the situation with our transaction receipts.
+      </p>
+    </div>
+  </div>
+  <div
+    className="soft-double-sides@lap-and-up soft-ends@anchored soft background--light-primary"
+    style={
+      Object {
+        "overflow": "visible",
+      }
+    }>
+    <div
       className="text-left soft-top@anchored hard-left@lap-and-up soft-half-bottom soft@anchored ">
       <div
         className="soft-double-ends@palm-wide-and-up soft-ends@palm">
@@ -102,6 +148,29 @@ exports[`test renders with props 1`] = `
   <Meta
     image="//s3.amazonaws.com/ns.assets/apollos/you_cant_outgive_god2x1.jpg"
     title="Give" />
+  <div
+    className="soft-double-sides@lap-and-up soft-ends@anchored soft background--light-primary"
+    style={
+      Object {
+        "overflow": "visible",
+      }
+    }>
+    <div
+      className="card soft-top soft-sides"
+      style={
+        Object {
+          "backgroundColor": "#6BAC43",
+          "color": "#FFFFFF",
+        }
+      }>
+      <h4>
+        You\'re Giving Is Working
+      </h4>
+      <p>
+        We are experiencing some glitches with receipts being sent out via email, but rest assured, you\'re gifts are being received and processed correctly. Thank you for being patient with us while we straighten out the situation with our transaction receipts.
+      </p>
+    </div>
+  </div>
   <div
     className="soft-double-sides@lap-and-up soft-ends@anchored soft background--light-primary"
     style={
